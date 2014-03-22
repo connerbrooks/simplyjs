@@ -1,6 +1,6 @@
 # Wearscript Pebble
 ##### Forked from meiguro/simplyjs
-### Installation insttructions
+### Installation instructions
 * Prerequisites
     [Pebble Getting Started](https://developer.getpebble.com/2/getting-started/)
     * Install Pebble SDK
