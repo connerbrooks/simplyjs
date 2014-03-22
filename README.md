@@ -1,5 +1,5 @@
 # Wearscript Pebble
-## Forked from meiguro/simplyjs
+##### Forked from meiguro/simplyjs
 ### Installation insttructions
 * Prerequisites
     [Pebble Getting Started](https://developer.getpebble.com/2/getting-started/)
@@ -8,11 +8,11 @@
     * Install 2.0 BETA Android App
 
 * Build client
-    * Build pebble app with 
+    * Build pebble app
     ```
     pebble build
     ```
-    * Send to pebble with
+    * Send to pebble
     ```
     pebble install --phone [ip address]
     ```
